@@ -1,0 +1,45 @@
+body {
+    /*font-family: Montserrat, sans-serif;*/
+    /* font-family: 'Gemunu Libre', sans-serif; */
+    font-family: 'Rubik', serif;
+    padding-top: 50px; 
+}
+
+.listaInfo {
+list-style: none;
+}
+
+.quali {
+    list-style: none;
+}
+
+.listQuali {
+    margin-left: 2rem;}
+
+h6 {
+    margin-top: 4px;
+}
+
+.profPic {
+    margin-left: 20px;
+    align-self: center;
+}
+
+.dadosP {
+    font-size: 1.2rem;
+    list-style: none;
+    align-self: center;
+    padding: 5%;
+    
+}
+
+.sobre {
+    padding-left: 10%;
+}
+
+#ingles {
+    list-style: url('/img/reino-unido.png');
+}
+#espanhol {
+    list-style: url('/img/espanha.png');
+}
